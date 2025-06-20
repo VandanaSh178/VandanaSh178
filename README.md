@@ -26,19 +26,6 @@ I'm a passionate learner, aspiring developer, and tech enthusiast who loves buil
 
 ---
 
-## 💼 Experience
-
-<details>
-<summary><b>Internships & Collaborations</b></summary>
-
-- **Tech Intern @ Startup Name** *(June 2024 – Aug 2024)*  
-  Worked on building frontend components with React.
-
-- **Hackathons & Open Source (2024)**  
-  Participated in various hackathons and contributed to open source.
-</details>
-
----
 
 ## 🚀 Projects
 
@@ -71,7 +58,6 @@ I'm a passionate learner, aspiring developer, and tech enthusiast who loves buil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandana-sharma-2baba6205/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
 
 ---
 
