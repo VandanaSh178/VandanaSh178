@@ -34,11 +34,10 @@ I'm a passionate learner, aspiring developer, and tech enthusiast who loves buil
 <details>
 <summary><b>My Featured Projects</b></summary>
 
-- 🧮 **Currency Converter App** – [Live Demo](https://your-currency-demo.vercel.app) | [GitHub](https://github.com/vandanasharma/currency-converter)
-- ✅ **To-do List App** – [Live Demo](https://your-todo-app.vercel.app) | [GitHub](https://github.com/vandanasharma/todo-app)
-- 🎮 **Simon Game** – [Live Demo](https://your-simon-game.vercel.app) | [GitHub](https://github.com/vandanasharma/simon-game)
-- 🐉 **iDragon Game** – [Live Demo](https://your-idragon-game.vercel.app) | [GitHub](https://github.com/vandanasharma/idragon-game)
-
+- 🧮 **Currency Converter App**
+- ✅ **To-do List App** 
+- 🎮 **Simon Game** 
+- 🐉 **iDragon Game** 
 </details>
 
 ---
