@@ -66,13 +66,6 @@ I'm a passionate learner, aspiring developer, and tech enthusiast who loves buil
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandana-sharma-2baba6205/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/vandanasharma/vandanasharma/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
