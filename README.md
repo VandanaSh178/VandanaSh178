@@ -49,13 +49,6 @@ I'm a passionate learner, aspiring developer, and tech enthusiast who loves buil
 
 ---
 
-## 📊 GitHub Stats
-
-![Vandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandanasharma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanasharma&layout=compact&theme=radical)
-
----
-
 ## 📈 Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=vandanasharma&color=brightgreen)
