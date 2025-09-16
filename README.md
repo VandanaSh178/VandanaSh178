@@ -11,10 +11,10 @@
       <p align="left">
         An Electronics and Communication Engineering student at NIT Manipur seeking an internship to apply my skills in JavaScript, React.js, Node.js, and cloud technologies to build secure and scalable software solutions.
       </p>
-      - [cite_start]🔭 I’m currently an **Open-Source Contributor** at **GirlScript Summer of Code (GSSOC'25)**. [cite: 16]
-      [cite_start]<br>- 🌱 I’m focused on enhancing my skills in **System Design** and **Cloud & DevOps**. [cite: 7, 13, 14]
-      [cite_start]<br>- 📫 You can reach me at **23105021.ece@nitmanipur.ac.in**. [cite: 2]
-      [cite_start]<br>- ⚡ Fun fact: I've solved **250+ Data Structures and Algorithms problems** on various platforms. [cite: 39]
+      - 🔭 I’m currently an **Open-Source Contributor** at **GirlScript Summer of Code (GSSOC'25)**. 
+      <br>- 🌱 I’m focused on enhancing my skills in **System Design** and **Cloud & DevOps**. 
+      <br>- 📫 You can reach me at **23105021.ece@nitmanipur.ac.in**.
+      <br>- ⚡ Fun fact: I've solved **250+ Data Structures and Algorithms problems** on various platforms. 
     </td>
     <td width="30%" valign="top">
       <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="3D Octocat" width="100%">
