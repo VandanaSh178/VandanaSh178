@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      [cite_start]<h1 align="left">Hi there, I'm Vandana Sharma 👋 </h1>
+      <h1 align="left">Hi there, I'm Vandana Sharma 👋 </h1>
       <p align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&width=435&lines=ECE+Student+at+NIT+Manipur;Full-Stack+Developer;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
       </p>
