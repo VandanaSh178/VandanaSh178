@@ -4,12 +4,12 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      [cite_start]<h1 align="left">Hi there, I'm Vandana Sharma 👋 [cite: 1]</h1>
+      [cite_start]<h1 align="left">Hi there, I'm Vandana Sharma 👋 </h1>
       <p align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&width=435&lines=ECE+Student+at+NIT+Manipur;Full-Stack+Developer;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
       </p>
       <p align="left">
-        [cite_start]An Electronics and Communication Engineering student at NIT Manipur seeking an internship to apply my skills in JavaScript, React.js, Node.js, and cloud technologies to build secure and scalable software solutions. [cite: 6, 7, 27, 28]
+        An Electronics and Communication Engineering student at NIT Manipur seeking an internship to apply my skills in JavaScript, React.js, Node.js, and cloud technologies to build secure and scalable software solutions.
       </p>
       - [cite_start]🔭 I’m currently an **Open-Source Contributor** at **GirlScript Summer of Code (GSSOC'25)**. [cite: 16]
       [cite_start]<br>- 🌱 I’m focused on enhancing my skills in **System Design** and **Cloud & DevOps**. [cite: 7, 13, 14]
