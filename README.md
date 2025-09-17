@@ -11,7 +11,7 @@
       <p align="left">
         An Electronics and Communication Engineering student at NIT Manipur seeking an internship to apply my skills in JavaScript, React.js, Node.js, and cloud technologies to build secure and scalable software solutions.
       </p>
-      - 🔭 I’m currently an **Open-Source Contributor** at **GirlScript Summer of Code (GSSOC'25)**. 
+      - 🔭 I’m currently an Open-Source Contributor at GirlScript Summer of Code (GSSOC'25). 
       <br>- 🌱 I’m focused on enhancing my skills in **System Design** and **Cloud & DevOps**. 
       <br>- 📫 You can reach me at **23105021.ece@nitmanipur.ac.in**.
       <br>- ⚡ Fun fact: I've solved **250+ Data Structures and Algorithms problems** on various platforms. 
