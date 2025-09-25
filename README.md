@@ -14,7 +14,7 @@
       - 🔭 I’m currently an Open-Source Contributor at GirlScript Summer of Code (GSSOC'25). 
       <br>- 🌱 I’m focused on enhancing my skills in System Design and Cloud & DevOps. 
       <br>- 📫 You can reach me at 23105021.ece@nitmanipur.ac.in
-      <br>- ⚡ Fun fact: I've solved **250+ Data Structures and Algorithms problems** on various platforms. 
+      <br>- ⚡ Fun fact: I've solved 250+ Data Structures and Algorithms problems on various platforms. 
     </td>
     <td width="30%" valign="top">
       <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="3D Octocat" width="100%">
