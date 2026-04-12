@@ -1,20 +1,23 @@
 <div align="center">
-  </div>
+</div>
 
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left">Hi there, I'm Vandana Sharma 👋 </h1>
+      <h1 align="left">Hi there, I'm Vandana Sharma 👋</h1>
       <p align="left">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&width=435&lines=ECE+Student+at+NIT+Manipur;Full-Stack+Developer;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&width=500&lines=ECE+Student+at+NIT+Manipur;Full-Stack+Developer+(MERN+Stack);Open-Source+Contributor+%40+GSSOC'25;518+LeetCode+Problems+Solved!;2nd+Rank+%E2%80%94+Ten+Days+of+Code+(NIT+Durgapur);3rd+Rank+%E2%80%94+Ai-Thon+%40+BITS+Pilani" alt="Typing SVG" /></a>
       </p>
       <p align="left">
         An Electronics and Communication Engineering student at NIT Manipur seeking an internship to apply my skills in JavaScript, React.js, Node.js, and cloud technologies to build secure and scalable software solutions.
       </p>
-      - 🔭 I’m currently an Open-Source Contributor at GirlScript Summer of Code (GSSOC'25). 
-      <br>- 🌱 I’m focused on enhancing my skills in System Design and Cloud & DevOps. 
+      - 🔭 I'm currently an Open-Source Contributor at <strong>GirlScript Summer of Code (GSSOC'25)</strong>.
+      <br>- 🌱 I'm focused on enhancing my skills in <strong>System Design</strong> and <strong>Cloud & DevOps</strong>.
+      <br>- 🏆 <strong>2nd Rank</strong> at Ten Days of Code (Java) — GNU/Linux Users' Group, NIT Durgapur.
+      <br>- 🥉 <strong>3rd Rank</strong> at Ai-Thon Global Coding Conquest — BITS Pilani.
+      <br>- 🏅 Participated in ReGen Hackathon 2025, Adobe India Hackathon, NITS Hacks 8.0 & KodeKalesh.
       <br>- 📫 You can reach me at 23105021.ece@nitmanipur.ac.in
-      <br>- ⚡ Fun fact: I've solved 350+ Data Structures and Algorithms problems on various platforms. 
+      <br>- ⚡ I've solved <strong>518 problems on LeetCode</strong> (Contest Rating: 1,544 · Top 33.12% · 100 Days Badge 2026) and 350+ DSA problems across platforms.
     </td>
     <td width="30%" valign="top">
       <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="3D Octocat" width="100%">
@@ -27,8 +30,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vandana-sharma-2baba6205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandana-sharma-linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vandana17sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vandana-leetcode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/striver178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vandana-gfg" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">🏆 Achievements & Hackathons:</h3>
+
+| 🎖️ | Event | Organizer |
+|---|---|---|
+| 🥈 2nd Rank | Ten Days of Code (Java) | GNU/Linux Users' Group, NIT Durgapur |
+| 🥉 3rd Rank | Ai-Thon Global Coding Conquest | BITS Pilani |
+| 🏅 Participant | ReGen Hackathon 2025 | QUBIT – NIT Manipur Coding Club |
+| 🏅 Participant | Adobe India Hackathon | Adobe |
+| 🏅 Participant | NITS Hacks 8.0 | Coding Club, NIT Silchar |
+| 🏅 Participant | KodeKalesh | Kanpur Institute of Technology |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,7 +56,8 @@
     <strong>Cloud & DevOps:</strong><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br><br>
     <strong>Tools & Platforms:</strong><br>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/></p>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+</p>
 
 <br>
 
